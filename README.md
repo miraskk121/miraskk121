@@ -58,7 +58,7 @@
 - 🏫 **Astana IT University** — Smart Technology, 3 курс (2023–2026)
 - 💻 **Tomorrow School** — углублённое изучение Go: паттерны бэкенда, concurrency, архитектура БД
 - 🌀 **Alem Programming School** — интенсив по методологии 42 Network (peer-to-peer)
-- 📈 **190+ решённых задач на LeetCode** (Easy/Medium), алгоритмы на графах и хеш-таблицах
+- 📈 **200+ решённых задач на LeetCode** (Easy/Medium), алгоритмы на графах и хеш-таблицах
 
 ---
 
