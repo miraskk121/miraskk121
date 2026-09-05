@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Мирас 👋</h1>
-<h3 align="center">Junior Go Backend Developer | Astana IT University</h3>
+<h3 align="center">Junior Go Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miras-kadiraly">
