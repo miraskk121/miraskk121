@@ -39,19 +39,6 @@
 
 ---
 
-### 📊 GitHub статистика
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miraskk121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraskk121&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miraskk121&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 🧩 LeetCode статистика
 
 <p align="center">
@@ -65,7 +52,7 @@
 - 🏫 **Astana IT University** — Smart Technology, 3 курс (2023–2026), обучение на английском языке
 - 💻 **Tomorrow School** — углублённое изучение Go: паттерны бэкенда, concurrency, архитектура БД
 - 🌀 **Alem Programming School** — интенсив по методологии 42 Network (peer-to-peer)
-- 📈 **190+ решённых задач на LeetCode** (Easy/Medium), алгоритмы на графах и хеш-таблицах
+- 📈 **200+ решённых задач на LeetCode** (Easy/Medium), алгоритмы на графах и хеш-таблицах
 
 ---
 
